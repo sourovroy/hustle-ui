@@ -1,4 +1,4 @@
-v2.0.0
+v1.3.0
 - [Enhance] [Module] Opt-in: Stop supporting feature image.
 
 
